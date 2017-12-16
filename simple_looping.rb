@@ -58,6 +58,6 @@ def for_iterator(number_of_times)
   phrase = "Welcome to Flatiron School's Web Development Course!"
 phrase_count = 1..7
 for reps in phrase_count
-  putts phrase
+  puts phrase
 end
 end
